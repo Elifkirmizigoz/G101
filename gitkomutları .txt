@@ -1,0 +1,22 @@
+git init
+➡️ Bulunduğun klasörü Git deposu yapar (ilk kurulum).
+git status
+➡️ Neler değişmiş, neler takipte değil gösterir.
+git add dosya.txt
+git add .              # tüm değişiklikleri ekle
+➡️ Değişiklikleri sahneye alır (commit’e hazır hale getirir).
+
+git remote add origin <repo_linki>
+➡️ GitHub reposuyla bağlantı kurar.
+git push -u origin main
+➡️ Değişiklikleri GitHub’a gönderir.
+git pull origin main
+➡️ GitHub’daki son değişiklikleri bilgisayara çeker.
+git merge yeni-ozellik
+➡️ Bulunduğun branch’e, başka branch’in değişikliklerini ekler.
+
+git merge yeni-ozellik
+➡️ Bulunduğun branch’e, başka branch’in değişikliklerini ekler.
+
+
+
