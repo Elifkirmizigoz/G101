@@ -5,6 +5,8 @@ git status
 git add dosya.txt
 git add .              # tüm değişiklikleri ekle
 ➡️ Değişiklikleri sahneye alır (commit’e hazır hale getirir).
+git commit -m "Açıklayıcı mesaj yaz"
+➡️ Değişiklikleri kalıcı olarak kaydeder.
 
 git remote add origin <repo_linki>
 ➡️ GitHub reposuyla bağlantı kurar.
