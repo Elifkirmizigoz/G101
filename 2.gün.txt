@@ -2,3 +2,7 @@
 bugun ne hatırladığımı görmek için bakmadan gite push yapmayı deniyorum 
 2)
 bu denemede repo linki vermeden yapıyorum 
+  bu adımları izledim ;
+      * git add .
+      * git commit -m "tekrar2"
+      * git push -u origin main
